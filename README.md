@@ -1,1 +1,1 @@
-"# School-Management-Platform" 
+# School-Management-Platform 
